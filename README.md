@@ -1,5 +1,6 @@
 # Vape Client Overlay UI
-A Vape V4 Client with only legit modules, UI, Overlay working
+A Vape V4 Client with only legit modules, UI, Overlay working|
+
 **is it safe to use on every server?**
 
 - Yes, Entire Modules Wont be working so you dont need to worry anymore
